@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **"Diving into TypeScript for scalable application development and optimizing backend APIs with Node.js and Express.**
 
-- 💬 Ask me about **MERN Stack, JavaScript, Responsive web design, and etc**
+- 💬 Ask me about **MERN Stack, JavaScript, Responsive web design, and etc.**
 
 - 📫 How to reach me **sunidhichauhan2002@gmail.com**
 
