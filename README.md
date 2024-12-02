@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunidhi</h1>
-<h3 align="center">Passionate Frontend Developer from India</h3>
+<h3 align="center">Passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **TrendHive E-Commerce Website**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **"Diving into TypeScript for scalable application development and optimizing backend APIs with Node.js and Express.**
 
-- 💬 Ask me about **JavaScript, Responsive web design, and etc**
+- 💬 Ask me about **MERN Stack, JavaScript, Responsive web design, and etc**
 
 - 📫 How to reach me **sunidhichauhan2002@gmail.com**
 
