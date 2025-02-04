@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sunidhichauhan2002@gmail.com**
 
-- ⚡ Fun fact **I use console.log to make sure my life doesn't have any undefined moments!**  
+- ⚡ Fun fact **I use console.log to make sure my life doesn't have any undefined moments!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
