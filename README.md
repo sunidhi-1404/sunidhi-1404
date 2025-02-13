@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I use console.log to make sure my life doesn't have any undefined moments!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://twitter.com/@sunidhi140402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sunidhi140402" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunidhichauhan002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunidhichauhan002" height="30" width="40" /></a>
 <a href="https://instagram.com/sunidhi__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunidhi__04" height="30" width="40" /></a>
