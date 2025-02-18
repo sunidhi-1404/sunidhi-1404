@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunidhi</h1>    
 <h3 align="center">Passionate Full Stack Developer from India</h3> 
 
-- 🔭 I’m currently working on **TrendHive E-Commerce Website** 
+- 🔭 I’m currently working on **TrendHive E-Commerce Website**  
 
 - 🌱 I’m currently learning **Diving into TypeScript for scalable application development and optimizing backend APIs with Node.js and Express.**  
 
